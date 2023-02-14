@@ -1,0 +1,13 @@
+.emp-container {
+    background-color: #fff;
+    margin: 16px;
+    padding: 16px;
+    box-shadow: 0px 0px 4px 4px rgb(0 0 0 / 5%);
+}
+.emp-info-wrp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    padding: 0 8px 8px;
+}
